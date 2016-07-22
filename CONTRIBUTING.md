@@ -10,9 +10,7 @@ Note: The underlying guideline follows some thoughts from: [Go](https://golang.o
 - Create a topic branch
 - Make commits of logical units
 - Check for unnecessary whitespace with ```git diff --check``` before committing
-- Make sure your commit messages are in the proper format
-- Release changes (if necessary) following [Github workflow](https://help.github.com/articles/creating-releases/)
-
+- Make sure your commit messages are in the proper format:
 ```
 (XYZ-1234) Make the example in CONTRIBUTING imperative and concrete
 
@@ -26,6 +24,7 @@ The first line is a real life imperative statement with a ticket number
 from our issue tracker.  The body describes the behavior without the patch,
 why this is a problem, and how the patch fixes the problem when applied.
 ```
+- Release changes (if necessary) following [Github workflow](https://help.github.com/articles/creating-releases/)
 - Make sure you have added the necessary tests for your changes
 - Run all the tests to assure nothing else was accidentally broken
 - Open a merge request to ```master branch``` and ask someone from the team to review your changes
