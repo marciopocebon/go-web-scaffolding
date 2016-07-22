@@ -29,6 +29,7 @@ go install
 
 Run the app
 ```bash
+source .env-host-docker
 ./$GOBIN/go-web-scaffolding
 ```
 
