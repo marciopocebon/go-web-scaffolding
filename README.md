@@ -30,6 +30,7 @@ go test ./spec/... -v
 
 ## running the application
 ***Note: To run the application as a container head over [README-docker.md](/README-docker.md).***
+
 Build and install the application.
 ```bash
 go install
