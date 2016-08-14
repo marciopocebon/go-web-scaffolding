@@ -3,7 +3,7 @@
 This document explains how to contribute changes to the project. 
 It assumes you have written and **tested** your code and followed [The Twelve-Factors App](http://12factor.net/) guidelines.
 
-Note: The underlying guideline follows some thoughts from: [Go](https://golang.org/doc/contribute.html) and [puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md) contributing pages. You may also check they out!
+Note: The underlying guideline follows some thoughts from: [Go](https://golang.org/doc/contribute.html) and [puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md) contributing pages. You may also check them out!
 
 ## Making Changes
 
